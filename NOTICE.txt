@@ -31,3 +31,6 @@ The contributors of this project are:
 - Sergio Pérez (serpercap@alum.us.es)
 
 
+The contributors of this project are:
+
+Luis Pardo López (luiparlop1@alum.us.es)
