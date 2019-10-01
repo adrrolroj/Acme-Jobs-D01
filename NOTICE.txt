@@ -1,3 +1,4 @@
+
 # NOTICE.txt
 #
 # Copyright (c) 2019 Rafael Corchuelo.
@@ -29,8 +30,5 @@ The following tools and components are required:
 The contributors of this project are:
 
 - Sergio Pérez (serpercap@alum.us.es)
-
-
-The contributors of this project are:
-
-Luis Pardo López (luiparlop1@alum.us.es)
+-Adrian Roldan Rojo(Adrrolroj@alum.us.es)
+-Luis Pardo López (luiparlop1@alum.us.es)
