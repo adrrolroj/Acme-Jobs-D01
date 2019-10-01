@@ -28,4 +28,5 @@ The following tools and components are required:
 	
 The contributors of this project are:
 -Adrian Roldan Rojo(Adrrolroj@alum.us.es)
+- Sergio Pérez (serpercap@alum.us.es)
 
