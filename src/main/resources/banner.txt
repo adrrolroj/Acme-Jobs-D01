@@ -15,4 +15,4 @@ ______          _                        _____         _   _
      
 ${Ansi.DEFAULT}
 Powered by Spring Boot ${spring-boot.version}
-Powered by Starter-Project 2.19
+Powered by Acme-jobs 2.19
