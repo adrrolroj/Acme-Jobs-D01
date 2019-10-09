@@ -20,6 +20,7 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Adrian" action="https://www.instagram.com/adrian98rr7/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Luis" action="https://www.youtube.com/watch?v=H0YDbhBNJfY"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -34,7 +35,6 @@
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
-						<acme:menu-suboption code="master.menu.consumer.favourite-link" action="https://www.youtube.com/watch?v=H0YDbhBNJfY"/>
 			
 		</acme:menu-option>
 	</acme:menu-left>
