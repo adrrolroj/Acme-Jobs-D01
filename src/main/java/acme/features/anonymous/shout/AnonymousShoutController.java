@@ -18,12 +18,15 @@ public class AnonymousShoutController extends AbstractController<Anonymous, Shou
 
 	//Internal state--------------------------
 	@Autowired
-	private AnonymousShoutListService listService;
+	private AnonymousShoutListService	listService;
+	@Autowired
+	private AnonymousShoutCreateService	createService;
 
 
 	//Constructor-----------------------------
 	@PostConstruct
 	private void initialise() {
 		this.addBasicCommand(BasicCommand.LIST, this.listService);
+		this.addBasicCommand(BasicCommand.CREATE, this.createService);
 	}
 }
