@@ -31,8 +31,9 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.favourite-link-Adrian = Enlace favorito de Adrian
 master.menu.anonymous.favourite-link-Luis = Enlace favorito de Luis
+master.menu.anonymous.favourite-link-Alejandro = Enlace favorito de Alejandro
+master.menu.anonymous.favourite-link-Fernando = Enlace favorito de Fernando
 master.menu.anonymous.favourite-link-Capi = Enlace favorito de Capi
-
 
 # master.menu.administrator ###################################################
 
@@ -94,4 +95,3 @@ master.license.text = \
 	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
-	
