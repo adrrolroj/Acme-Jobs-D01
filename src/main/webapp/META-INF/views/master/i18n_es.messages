@@ -35,6 +35,10 @@ master.menu.anonymous.favourite-link-Alejandro = Enlace favorito de Alejandro
 master.menu.anonymous.favourite-link-Fernando = Enlace favorito de Fernando
 master.menu.anonymous.favourite-link-Capi = Enlace favorito de Capi
 
+master.menu.anonymous.bulletin = Boletines anónimos
+master.menu.anonymous.bulletin.adrian.list = Listar boletines de Adrian
+master.menu.anonymous.bulletin.adrian.create = Crear boletin de Adrian
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
