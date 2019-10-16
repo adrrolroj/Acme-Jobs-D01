@@ -20,7 +20,7 @@
 	<acme:form-textbox code="anonymous.bullentin.adrian.form.label.title" path="title"/>
 	<acme:form-textarea code="anonymous.bullentin.adrian.form.label.text" path="text"/>
 	
-	<acme:form-submit code="anonymous.bullentin.adrian.form.label.create" action="/anonymous/bullentin/adrian/create"/>
+	<acme:form-submit code="anonymous.bullentin.adrian.form.label.create" action="/anonymous/adrian-bulletin/create"/>
 	<acme:form-return code="anonymous.bullentin.adrian.form.label.return"/>
 
 </acme:form>

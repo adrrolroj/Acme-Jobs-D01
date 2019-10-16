@@ -1,12 +1,12 @@
 
-package acme.features.anonymous.bulletin.adrian;
+package acme.features.anonymous.adrianBulletin;
 
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import acme.entities.bulletin.adrian.AdrianBulletin;
+import acme.entities.adrianBulletin.AdrianBulletin;
 import acme.framework.components.Errors;
 import acme.framework.components.Model;
 import acme.framework.components.Request;

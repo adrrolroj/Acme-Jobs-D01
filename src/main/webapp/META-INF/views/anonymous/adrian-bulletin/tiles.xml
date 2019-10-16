@@ -18,12 +18,12 @@
 
 <tiles-definitions>
 
-	<definition name="anonymous/bullentin/adrian/list" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/bullentin/adrian/list.jsp" />
+	<definition name="anonymous/adrian-bulletin/list" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/adrian-bulletin/list.jsp" />
 	</definition>
 	
-	<definition name="anonymous/bullentin/adrian/form" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/bullentin/adrian/form.jsp" />
+	<definition name="anonymous/adrian-bulletin/form" extends="master">
+		<put-attribute name="body" type="template" value="../anonymous/adrian-bulletin/form.jsp" />
 	</definition>
 	
 

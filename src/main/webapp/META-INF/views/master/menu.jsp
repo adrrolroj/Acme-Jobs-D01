@@ -26,10 +26,10 @@
             <acme:menu-suboption code="master.menu.anonymous.favourite-link-Capi" action="https://ev.us.es"/>
 			
 		</acme:menu-option>
-		
+		<%-- Añadir aqui los bulletines para que salgan en el menu --%>
 		<acme:menu-option code="master.menu.anonymous.bulletin" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.bulletin.adrian.list" action="/anonymous/bulletin/adrian/list"/>
-			<acme:menu-suboption code="master.menu.anonymous.bulletin.adrian.create" action="/anonymous/bulletin/adrian/create"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.adrian.list" action="/anonymous/adrian-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.adrian.create" action="/anonymous/adrian-bulletin/create"/>
 		</acme:menu-option>
 		
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

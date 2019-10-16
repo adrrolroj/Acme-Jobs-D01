@@ -1,5 +1,5 @@
 
-package acme.features.anonymous.bulletin.adrian;
+package acme.features.anonymous.adrianBulletin;
 
 import javax.annotation.PostConstruct;
 
@@ -7,13 +7,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import acme.entities.bulletin.adrian.AdrianBulletin;
+import acme.entities.adrianBulletin.AdrianBulletin;
 import acme.framework.components.BasicCommand;
 import acme.framework.controllers.AbstractController;
 import acme.framework.entities.Anonymous;
 
 @Controller
-@RequestMapping("/anonymous/bulletin/adrian/")
+@RequestMapping("/anonymous/adrian-bulletin/")
 public class AnonymousBulletinAdrianController extends AbstractController<Anonymous, AdrianBulletin> {
 
 	//Internal state--------------------------

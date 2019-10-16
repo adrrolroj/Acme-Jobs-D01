@@ -1,12 +1,12 @@
 
-package acme.features.anonymous.bulletin.adrian;
+package acme.features.anonymous.adrianBulletin;
 
 import java.util.Collection;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import acme.entities.bulletin.adrian.AdrianBulletin;
+import acme.entities.adrianBulletin.AdrianBulletin;
 import acme.framework.repositories.AbstractRepository;
 
 @Repository

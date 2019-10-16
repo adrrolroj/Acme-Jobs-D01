@@ -1,5 +1,5 @@
 
-package acme.entities.bulletin.adrian;
+package acme.entities.adrianBulletin;
 
 import java.util.Date;
 
