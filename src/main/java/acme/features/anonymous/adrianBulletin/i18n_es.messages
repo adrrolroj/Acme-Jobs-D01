@@ -11,3 +11,8 @@
 anonymous.shout.list.label.author = Autor
 anonymous.shout.list.label.moment = Fecha
 anonymous.shout.list.label.text = Texto
+
+anonymous.shout.form.label.author = Autor
+anonymous.shout.form.label.text = Texto
+anonymous.shout.form.label.create = Crear
+anonymous.shout.form.label.return = Cancelar
