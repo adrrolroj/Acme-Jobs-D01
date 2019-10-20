@@ -38,6 +38,8 @@ master.menu.anonymous.favourite-link-Capi = Capi's favourite link
 master.menu.anonymous.bulletin = Bulletins anonymous
 master.menu.anonymous.bulletin.adrian.list = List Adrian's bulletin
 master.menu.anonymous.bulletin.adrian.create = Create Adrian's bulletin
+master.menu.anonymous.bulletin.capi.list = List Capi's bulletin
+master.menu.anonymous.bulletin.capi.create = Create Capi's bulletin
 
 # master.menu.administrator ###################################################
 
