@@ -1,0 +1,20 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+anonymous.bulletin.luis.list.label.author = Autor
+anonymous.bulletin.luis.list.label.title = Titulo
+anonymous.bulletin.luis.list.label.moment = Fecha
+anonymous.bulletin.luis.list.label.text = Texto
+
+anonymous.bulletin.luis.form.label.author = Autor
+anonymous.bulletin.luis.form.label.title = Titulo
+anonymous.bulletin.luis.form.label.text = Texto
+anonymous.bulletin.luis.form.label.create = Crear
+anonymous.bulletin.luis.form.label.return = Cancelar
