@@ -34,6 +34,9 @@
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.luis.list" action="/anonymous/luis-bulletin/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.luis.create" action="/anonymous/luis-bulletin/create"/>
 
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.alejandro.list" action="/anonymous/alejandro-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.alejandro.create" action="/anonymous/alejandro-bulletin/create"/>
+
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.capi.list" action="/anonymous/capi-bulletin/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.capi.create" action="/anonymous/capi-bulletin/create"/>
 
