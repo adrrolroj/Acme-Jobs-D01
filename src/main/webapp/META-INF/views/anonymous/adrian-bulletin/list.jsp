@@ -16,8 +16,8 @@
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
 <acme:list readonly="true">
-	<acme:list-column code="anonymous.bullentin.adrian.list.label.author" path="author" width="15%"/>
-	<acme:list-column code="anonymous.bullentin.adrian.list.label.title" path="title" width="15%"/>
-	<acme:list-column code="anonymous.bullentin.adrian.list.label.text" path="text" width="50%"/>
-	<acme:list-column code="anonymous.bullentin.adrian.list.label.moment" path="moment" width="20%"/>
+	<acme:list-column code="anonymous.bulletin.adrian.list.label.author" path="author" width="15%"/>
+	<acme:list-column code="anonymous.bulletin.adrian.list.label.title" path="title" width="15%"/>
+	<acme:list-column code="anonymous.bulletin.adrian.list.label.text" path="text" width="50%"/>
+	<acme:list-column code="anonymous.bulletin.adrian.list.label.moment" path="moment" width="20%"/>
 </acme:list>

@@ -8,14 +8,14 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-anonymous.bullentin.adrian.list.label.author = Author
-anonymous.bullentin.adrian.list.label.title = Title
-anonymous.bullentin.adrian.list.label.moment = Moment
-anonymous.bullentin.adrian.list.label.text = Text
+anonymous.bulletin.adrian.list.label.author = Author
+anonymous.bulletin.adrian.list.label.title = Title
+anonymous.bulletin.adrian.list.label.moment = Moment
+anonymous.bulletin.adrian.list.label.text = Text
 
-anonymous.bullentin.adrian.form.label.author = Author
-anonymous.bullentin.adrian.form.label.title = Title
-anonymous.bullentin.adrian.form.label.text = Text
-anonymous.bullentin.adrian.form.label.create = Create
-anonymous.bullentin.adrian.form.label.return = Cancel
+anonymous.bulletin.adrian.form.label.author = Author
+anonymous.bulletin.adrian.form.label.title = Title
+anonymous.bulletin.adrian.form.label.text = Text
+anonymous.bulletin.adrian.form.label.create = Create
+anonymous.bulletin.adrian.form.label.return = Cancel
 

@@ -16,11 +16,11 @@
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
 <acme:form>
-	<acme:form-textbox code="anonymous.bullentin.fernando.form.label.author" path="author"/>
-	<acme:form-textbox code="anonymous.bullentin.fernando.form.label.title" path="title"/>
-	<acme:form-textarea code="anonymous.bullentin.fernando.form.label.text" path="text"/>
+	<acme:form-textbox code="anonymous.bulletin.fernando.form.label.author" path="author"/>
+	<acme:form-textbox code="anonymous.bulletin.fernando.form.label.title" path="title"/>
+	<acme:form-textarea code="anonymous.bulletin.fernando.form.label.text" path="text"/>
 	
-	<acme:form-submit code="anonymous.bullentin.fernando.form.label.create" action="/anonymous/fernando-bulletin/create"/>
-	<acme:form-return code="anonymous.bullentin.fernando.form.label.return"/>
+	<acme:form-submit code="anonymous.bulletin.fernando.form.label.create" action="/anonymous/fernando-bulletin/create"/>
+	<acme:form-return code="anonymous.bulletin.fernando.form.label.return"/>
 
 </acme:form>
