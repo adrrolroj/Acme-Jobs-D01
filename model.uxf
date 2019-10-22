@@ -363,4 +363,38 @@ Alejandro Bulletin
 + text: String {NotBlanck}</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>847</x>
+      <y>357</y>
+      <w>231</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+FernandoBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlanck}
++ tittle: String {NotBlanck}
++ text: String {NotBlanck}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1099</x>
+      <y>14</y>
+      <w>231</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+LuisBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlanck}
++ tittle: String {NotBlanck}
++ text: String {NotBlanck}</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>
