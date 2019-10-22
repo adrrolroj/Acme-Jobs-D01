@@ -23,6 +23,8 @@
 
     drop table if exists `adrian_bulletin`;
 
+    drop table if exists `alejandro_bulletin`;
+
     drop table if exists `anonymous`;
 
     drop table if exists `authenticated`;
