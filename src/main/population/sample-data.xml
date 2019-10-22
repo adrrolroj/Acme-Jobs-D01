@@ -74,21 +74,24 @@
 	</bean>
   
 	<!-- FernandoBulletin -->
-	<bean id="shout01" class="acme.entities.fernandoBulletin.shout">
+	<bean id="FernandoBulletin01" class="acme.entities.fernandoBulletin.FernandoBulletin">
 	<property name="author" value="John Doe"/>
 	<property name="text" value="I'm happy!"/>
 	<property name="moment" value="2019/09/09 10:00"/>
+	<property name="title" value="Titulo03"/>
 	
 	</bean>
-	<bean id="shout02" class="acme.entities.fernandoBulletin.shout">
+	<bean id="FernandoBulletin02" class="acme.entities.fernandoBulletin.FernandoBulletin">
 	<property name="author" value="Pepe"/>
 	<property name="text" value="¿Donde estas?"/>
 	<property name="moment" value="2019/09/14 10:00"/>
+	<property name="title" value="Titulo02"/>
 	</bean>
-	<bean id="shout03" class="acme.entities.fernandoBulletin.shout">
+	<bean id="FernandoBulletin03" class="acme.entities.fernandoBulletin.FernandoBulletin">
 	<property name="author" value="Marta"/>
 	<property name="text" value="Estoy aqui"/>
 	<property name="moment" value="2019/09/13 10:00"/>
+	<property name="title" value="Titulo01"/>
 	</bean>
 	
 	<!-- CapiBulletin -->
