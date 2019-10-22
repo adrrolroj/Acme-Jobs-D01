@@ -45,6 +45,8 @@ master.menu.anonymous.bulletin.luis.create = Create Luis' bulletin
 master.menu.anonymous.bulletin.capi.list = List Capi's bulletin
 master.menu.anonymous.bulletin.capi.create = Create Capi's bulletin
 
+master.menu.anonymous.bulletin.fernando.list = List Fernando's bulletin
+master.menu.anonymous.bulletin.fernando.create = Create Fernando's bulletin
 
 # master.menu.administrator ###################################################
 

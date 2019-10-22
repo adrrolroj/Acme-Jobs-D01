@@ -37,6 +37,9 @@
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.capi.list" action="/anonymous/capi-bulletin/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.bulletin.capi.create" action="/anonymous/capi-bulletin/create"/>
 
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.fernando.list" action="/anonymous/fernando-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.bulletin.fernando.create" action="/anonymous/fernando-bulletin/create"/>
+			
 		</acme:menu-option>
 		
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

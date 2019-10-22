@@ -31,6 +31,8 @@
 
     drop table if exists `consumer`;
 
+    drop table if exists `fernando_bulletin`;
+
     drop table if exists `luis_bulletin`;
 
     drop table if exists `provider`;
