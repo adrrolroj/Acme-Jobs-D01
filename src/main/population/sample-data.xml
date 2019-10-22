@@ -33,6 +33,26 @@
 		<property name="text" value="Hola ald"/>
 		<property name="moment" value="2019/08/09 10:11"/>
 	</bean>
+	<bean id="Shout04" class="acme.entities.shout.Shout">
+	
+		<property name="author" value="Manolo Palmero"/>
+		<property name="text" value="Hola, esto es un ejemplo"/>
+		<property name="moment" value="2019/08/09 10:10"/>
+	</bean>
+	<bean id="Shout05" class="acme.entities.shout.Shout">
+	
+		<property name="author" value="Benito Perez"/>
+		<property name="text" value="Y esto otro"/>
+		<property name="moment" value="2019/09/09 11:10"/>
+	</bean>
+	<bean id="Shout06" class="acme.entities.shout.Shout">
+	
+		<property name="author" value="Sergio Perez"/>
+		<property name="text" value="Y este el ultimo"/>
+		<property name="moment" value="2019/09/06 10:10"/>
+	</bean>
+	
+	
 	<!-- AdrianBulletin -->
 	<bean id="AdrianBulletin01" class="acme.entities.adrianBulletin.AdrianBulletin">
 		<property name="author" value="John Algo"/>
@@ -52,6 +72,7 @@
 		<property name="title" value="Titulo03"/>
 		<property name="moment" value="2019/08/09 10:11"/>
 	</bean>
+  
 	<!-- FernandoBulletin -->
 	<bean id="shout01" class="acme.entities.fernandoBulletin.shout">
 	<property name="author" value="John Doe"/>
@@ -68,5 +89,26 @@
 	<property name="author" value="Marta"/>
 	<property name="text" value="Estoy aqui"/>
 	<property name="moment" value="2019/09/13 10:00"/>
+	</bean>
+	
+	<!-- CapiBulletin -->
+	<bean id="CapiBulletin04" class="acme.entities.capiBulletin.CapiBulletin">
+		<property name="author" value="Manolo Palmero"/>
+		<property name="text" value="Hola, esto es un ejemplo"/>
+		<property name="title" value="Titulo04"/>
+		<property name="moment" value="2019/08/09 10:10"/>
+	</bean>
+	<bean id="CapiBulletin05" class="acme.entities.capiBulletin.CapiBulletin">	
+		<property name="author" value="Benito Perez"/>
+		<property name="text" value="Y esto otro"/>
+		<property name="title" value="Titulo05"/>
+		<property name="moment" value="2019/09/09 11:10"/>
+	</bean>
+	<bean id="CapiBulletin06" class="acme.entities.capiBulletin.CapiBulletin">
+		<property name="author" value="Sergio Perez"/>
+		<property name="text" value="Y este el ultimo"/>
+		<property name="title" value="Titulo06"/>
+		<property name="moment" value="2019/09/06 10:10"/>
+		
 	</bean>
 </beans>

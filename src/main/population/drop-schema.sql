@@ -27,7 +27,11 @@
 
     drop table if exists `authenticated`;
 
+    drop table if exists `capi_bulletin`;
+
     drop table if exists `consumer`;
+
+    drop table if exists `luis_bulletin`;
 
     drop table if exists `provider`;
 
