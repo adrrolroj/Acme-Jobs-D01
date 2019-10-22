@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
@@ -52,7 +53,27 @@
 		<property name="moment" value="2019/09/06 10:10"/>
 	</bean>
 	
+	<!-- AlejandroBulletin -->
+	<bean id="AlejandroBulletin07" class="acme.entities.alejandroBulletin.AlejandroBulletin">
+		<property name="author" value="Pepito perez"/>
+		<property name="text" value="¡Pues aquí estamos!"/>
+		<property name="title" value="Saludos"/>
+		<property name="moment" value="2019/09/06 10:10"/>
+	</bean>
+	<bean id="AlejandroBulletin08" class="acme.entities.alejandroBulletin.AlejandroBulletin">
+		<property name="author" value="elGRATIS"/>
+		<property name="text" value="¿Por aquí daban cosas gratis?"/>
+		<property name="title" value="Regalos"/>
+		<property name="moment" value="2019/09/09 10:10"/>
+	</bean>
+	<bean id="AlejandroBulletin09" class="acme.entities.alejandroBulletin.AlejandroBulletin">
+		<property name="author" value="sdfsadf"/>
+		<property name="text" value="fasdfadfghthntrn"/>
+		<property name="title" value="Tnrnrnrn4re"/>
+		<property name="moment" value="2019/08/09 10:11"/>
+	</bean>
 	
+  
 	<!-- AdrianBulletin -->
 	<bean id="AdrianBulletin01" class="acme.entities.adrianBulletin.AdrianBulletin">
 		<property name="author" value="John Algo"/>
@@ -72,10 +93,27 @@
 		<property name="title" value="Titulo03"/>
 		<property name="moment" value="2019/08/09 10:11"/>
 	</bean>
+  
+	<!-- FernandoBulletin -->
+	<bean id="FernandoBulletin01" class="acme.entities.fernandoBulletin.FernandoBulletin">
+	<property name="author" value="John Doe"/>
+	<property name="text" value="I'm happy!"/>
+	<property name="moment" value="2019/09/09 10:00"/>
+	<property name="title" value="Titulo03"/>
 	
-	
-	
-	
+	</bean>
+	<bean id="FernandoBulletin02" class="acme.entities.fernandoBulletin.FernandoBulletin">
+	<property name="author" value="Pepe"/>
+	<property name="text" value="¿Donde estas?"/>
+	<property name="moment" value="2019/09/14 10:00"/>
+	<property name="title" value="Titulo02"/>
+	</bean>
+	<bean id="FernandoBulletin03" class="acme.entities.fernandoBulletin.FernandoBulletin">
+	<property name="author" value="Marta"/>
+	<property name="text" value="Estoy aqui"/>
+	<property name="moment" value="2019/09/13 10:00"/>
+	<property name="title" value="Titulo01"/>
+	</bean>
 	
 	<!-- CapiBulletin -->
 	<bean id="CapiBulletin04" class="acme.entities.capiBulletin.CapiBulletin">
@@ -97,26 +135,4 @@
 		<property name="moment" value="2019/09/06 10:10"/>
 		
 	</bean>
-	
-	<!-- AlejandroBulletin -->
-	<bean id="AlejandroBulletin07" class="acme.entities.alejandroBulletin.AlejandroBulletin">
-		<property name="author" value="Pepito perez"/>
-		<property name="text" value="¡Pues aquí estamos!"/>
-		<property name="title" value="Saludos"/>
-		<property name="moment" value="2019/09/06 10:10"/>
-	</bean>
-	<bean id="AlejandroBulletin08" class="acme.entities.alejandroBulletin.AlejandroBulletin">
-		<property name="author" value="elGRATIS"/>
-		<property name="text" value="¿Por aquí daban cosas gratis?"/>
-		<property name="title" value="Regalos"/>
-		<property name="moment" value="2019/09/09 10:10"/>
-	</bean>
-	<bean id="AlejandroBulletin09" class="acme.entities.alejandroBulletin.AlejandroBulletin">
-		<property name="author" value="sdfsadf"/>
-		<property name="text" value="fasdfadfghthntrn"/>
-		<property name="title" value="Tnrnrnrn4re"/>
-		<property name="moment" value="2019/08/09 10:11"/>
-	</bean>
-	
-	
 </beans>
