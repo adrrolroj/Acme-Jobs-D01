@@ -48,7 +48,8 @@ master.menu.anonymous.bulletin.alejandro.create = Crear boletin de Alejandro
 master.menu.anonymous.bulletin.capi.list = Listar boletines de Capi
 master.menu.anonymous.bulletin.capi.create = Crear boletin de Capi
 
-
+master.menu.anonymous.bulletin.fernando.list = Listar boletines de Fernando
+master.menu.anonymous.bulletin.fernando.create = Crear boletin de Fernando
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
